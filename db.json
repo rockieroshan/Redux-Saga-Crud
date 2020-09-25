@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "name": "Carrot juice",
+      "price": "11",
+      "id": 1
+    },
+    {
+      "name": "Apple juice",
+      "price": 5,
+      "id": 2
+    },
+    {
+      "name": "Lemon juice",
+      "price": 3,
+      "id": 4
+    },
+    {
+      "name": "Pineapple juice",
+      "price": "4",
+      "id": 5
+    },
+    {
+      "name": "Mango juice",
+      "price": "2",
+      "id": 7
+    },
+    {
+      "name": "Orange",
+      "price": "6",
+      "id": 11
+    },
+    {
+      "name": "Pine Apple",
+      "price": "90",
+      "id": 12
+    },
+    {
+      "name": "kiwi",
+      "price": 4,
+      "id": 13
+    },
+    {
+      "name": "Mixed Juice",
+      "price": 5,
+      "id": 14
+    },
+    {
+      "name": "Banana",
+      "price": 2,
+      "id": 15
+    }
+  ]
+}
