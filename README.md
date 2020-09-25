@@ -8,4 +8,4 @@ Tech stack - React, Typescript, Scss etc.
 
 will allow you to run both client and json-server.
 
-![](./img/juice-store.png)
+![]('./images/juice-store.png')
